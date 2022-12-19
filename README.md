@@ -1,2 +1,2 @@
 # college_project
-A random game
+A random game using java
