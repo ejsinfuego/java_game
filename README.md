@@ -1,2 +1,2 @@
-# college_project
+# java-game
 A random games using java
